@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/WebBiodata/static/css/main.42b6ad53.chunk.css",
+    "main.js": "/WebBiodata/static/js/main.4cb0beec.chunk.js",
+    "main.js.map": "/WebBiodata/static/js/main.4cb0beec.chunk.js.map",
+    "runtime~main.js": "/WebBiodata/static/js/runtime~main.e59f3506.js",
+    "runtime~main.js.map": "/WebBiodata/static/js/runtime~main.e59f3506.js.map",
+    "static/css/2.1ad4406c.chunk.css": "/WebBiodata/static/css/2.1ad4406c.chunk.css",
+    "static/js/2.bb9090e2.chunk.js": "/WebBiodata/static/js/2.bb9090e2.chunk.js",
+    "static/js/2.bb9090e2.chunk.js.map": "/WebBiodata/static/js/2.bb9090e2.chunk.js.map",
+    "index.html": "/WebBiodata/index.html",
+    "precache-manifest.302658ea7d98ee574f7cb5e3047c7e50.js": "/WebBiodata/precache-manifest.302658ea7d98ee574f7cb5e3047c7e50.js",
+    "service-worker.js": "/WebBiodata/service-worker.js",
+    "static/css/2.1ad4406c.chunk.css.map": "/WebBiodata/static/css/2.1ad4406c.chunk.css.map",
+    "static/css/main.42b6ad53.chunk.css.map": "/WebBiodata/static/css/main.42b6ad53.chunk.css.map",
+    "static/media/bio.jpg": "/WebBiodata/static/media/bio.ce42b93f.jpg",
+    "static/media/iceberg.png": "/WebBiodata/static/media/iceberg.2593cbb4.png",
+    "static/media/tempodoeloe.jpg": "/WebBiodata/static/media/tempodoeloe.e8201068.jpg"
+  }
+}
